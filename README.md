@@ -1,5 +1,6 @@
 # gtsa
 ![alt text](https://raw.githubusercontent.com/kushaangupta/gtsa/master/gtsaLogo.png)
+
 A Graphical Text Sentiment Analyzer
 
 For tkinter on Linux: sudo apt install python3-pil.imagetk
