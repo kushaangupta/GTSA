@@ -10,4 +10,4 @@ For matplotlib using pip: python3 -mpip install matplotlib
 For TextBlob using pip: python3 -mpip install textblob
 
 Screenshot:
-  ![alt text](https://raw.githubusercontent.com/kushaangupta/gtsa/master/TSA.png)
+  ![alt text](https://raw.githubusercontent.com/kushaangupta/gtsa/master/v1/TSA.png)
