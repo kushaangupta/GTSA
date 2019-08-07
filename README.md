@@ -1,5 +1,5 @@
 # gtsa
-![alt text](https://raw.githubusercontent.com/kushaangupta/gtsa/master/gtsaLogo.png)
+![alt text](https://raw.githubusercontent.com/kushaangupta/gtsa/master/v1/gtsaLogo.png)
 
 A Graphical Text Sentiment Analyzer
 
